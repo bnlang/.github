@@ -5,7 +5,7 @@
 <h1 align="center">Bnlang – Bangla Programming Language</h1>
 
 <p align="center">
-  A trilingual programming language designed to make coding more accessible  
+  A dual-language programming language designed to make coding more accessible  
   in <b>Bangla</b>, and <b>English</b>.
 </p>
 
@@ -13,7 +13,7 @@
 
 ## 🌐 What is Bnlang?
 
-**Bnlang** is a **production-ready trilingual programming language** built for Bangladesh and beyond.  
+**Bnlang** is a **production-ready dual-language programming language** built for Bangladesh and beyond.  
 It bridges the gap between **local language accessibility** and **modern software engineering**.
 
 - ✍️ **Write code in your language** — Bangla, or English.  
@@ -45,4 +45,5 @@ It bridges the gap between **local language accessibility** and **modern softwar
   <br />
   <sub>Created by <a href="https://github.com/zobayerhossainmamun">Mamun</a></sub>
 </p>
+
 
