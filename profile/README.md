@@ -24,6 +24,14 @@ It bridges the gap between **local language accessibility** and **modern softwar
 
 ---
 
+### 🎥 Bnlang Keywords
+
+<p align="center">
+  <a href="https://youtu.be/Kya3221v1Y0">
+    <img src="https://img.youtube.com/vi/Kya3221v1Y0/maxresdefault.jpg" width="800">
+  </a>
+</p>
+
 ## 🎯 Why Bnlang?
 
 - **Accessibility:** Programming should not be limited by language barriers.  
